@@ -1,6 +1,7 @@
 # label_test
 public label test code
 
+https://github.com/hunglc007/tensorflow-yolov4-tflite
 
 실제 내용은 참고.txt 에서 긁어 사용하시기 바랍니다.
 
